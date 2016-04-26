@@ -1,0 +1,11 @@
+/*css del header*/
+header {
+	background-image: url(large.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+header img {
+	width: 30%;
+	height: 20%
+}
