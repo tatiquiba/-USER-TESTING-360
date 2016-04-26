@@ -15,12 +15,61 @@ img {
 .user {
 	width: 320px;
 }
+.list {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.space {
+	margin-top: 10px;
+}
 /*fin section1 */
 /*section2*/
 .celeste {
-	background: rgb(79,120,120);
+	background: #74a3db;
+	padding: 30px;
 }
+.textwhite {
+	color: white;
+}
+.boton {
+	margin-top: 50px;
+	background: #74a3db;
+	border: 2px solid white;
+	font-size: 20px;
+}
+
 /*fin section2*/
 /*footer*/
+.fin {
+	background: #2a3541;
+	padding: 30px;
+}
+.lista {
+	list-style-type: none;
+}
+.icons {
+	margin-right: 15px;
+	border: 1px solid #2C519b;
+	background: #2a3541;
+	color: #2C519b;
+	padding: 7px 15px 7px 15px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	font-size: 20px;
+}
+.icon {
+	border: 1px solid #2C519b;
+	background: #2a3541;
+	color: #2C519b;
+	padding: 8px 10px 8px 10px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	font-size: 20px;
+}
+.marg {
+	margin-top: 10px;
+}
 
 /*fin footer*/
