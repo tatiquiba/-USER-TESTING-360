@@ -1,0 +1,26 @@
+img {
+	max-width: 100%;
+}
+/*section1*/
+.user-testing {
+	margin-top: 60px;
+	margin-bottom: 100px;
+}
+.textitle {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 50px;
+	color: #4DB1EA;
+	margin-top: 0;
+}
+.user {
+	width: 320px;
+}
+/*fin section1 */
+/*section2*/
+.celeste {
+	background: rgb(79,120,120);
+}
+/*fin section2*/
+/*footer*/
+
+/*fin footer*/
