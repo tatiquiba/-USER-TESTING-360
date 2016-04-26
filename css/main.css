@@ -15,6 +15,9 @@ img {
 .user {
 	width: 320px;
 }
+.parrafo {
+	font-size: 15px;
+}
 .list {
 	margin-top: 40px;
 	margin-bottom: 40px;
@@ -37,7 +40,6 @@ img {
 	border: 2px solid white;
 	font-size: 20px;
 }
-
 /*fin section2*/
 /*footer*/
 .fin {
@@ -71,5 +73,4 @@ img {
 .marg {
 	margin-top: 10px;
 }
-
 /*fin footer*/
