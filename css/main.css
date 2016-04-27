@@ -140,7 +140,82 @@ header h1 {
 
 }
 
-
+img {
+	max-width: 100%;
+}
+/*section1*/
+.user-testing {
+	margin-top: 60px;
+	margin-bottom: 100px;
+}
+.textitle {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 50px;
+	color: #4DB1EA;
+	margin-top: 0;
+}
+.user {
+	width: 320px;
+}
+.parrafo {
+	font-size: 15px;
+}
+.list {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.space {
+	margin-top: 10px;
+}
+/*fin section1 */
+/*section2*/
+.celeste {
+	background: #74a3db;
+	padding: 30px;
+}
+.textwhite {
+	color: white;
+}
+.boton {
+	margin-top: 50px;
+	background: #74a3db;
+	border: 2px solid white;
+	font-size: 20px;
+}
+/*fin section2*/
+/*footer*/
+.fin {
+	background: #2a3541;
+	padding: 30px;
+}
+.lista {
+	list-style-type: none;
+}
+.icons {
+	margin-right: 15px;
+	border: 1px solid #2C519b;
+	background: #2a3541;
+	color: #2C519b;
+	padding: 7px 15px 7px 15px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	font-size: 20px;
+}
+.icon {
+	border: 1px solid #2C519b;
+	background: #2a3541;
+	color: #2C519b;
+	padding: 8px 10px 8px 10px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	font-size: 20px;
+}
+.marg {
+	margin-top: 10px;
+}
+/*fin footer*/
 /* Responsive }*/
 
 @media screen and (max-width : 667px) {
@@ -182,4 +257,3 @@ header h1 {
 
 	
 }
-
